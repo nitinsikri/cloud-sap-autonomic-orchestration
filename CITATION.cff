@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Cloud-SAP: Multi-Tier Autonomic Resource Orchestration (Simulator)"
+type: software
+authors:
+  - family-names: Sikri
+    given-names: Nitin
+    orcid: "https://orcid.org/0009-0009-4096-5062"
+license: MIT
+repository-code: "https://github.com/nitinsikri/cloud-sap-autonomic-orchestration"
+date-released: "2026-11-19"
+keywords:
+  - "autonomic computing"
+  - "cloud federation"
+  - "auto-scaling"
+  - "MAPE-K"
+  - "cloud bursting"
+preferred-citation:
+  type: conference-paper
+  title: "Multi-Tier Autonomic Resource Orchestration Framework for Dynamic Service Elasticity across Federated Cloud Environments"
+  authors:
+    - family-names: Sikri
+      given-names: Nitin
+      orcid: "https://orcid.org/0009-0009-4096-5062"
+  collection-title: "Proceedings of the International Conference on Responsible, Risk-aware, and Regulated AI (RRRAI 2026)"
+  publisher:
+    name: "Atlantis Press (Springer Nature)"
+  year: 2026
+  doi: "10.2991/978-94-6239-723-1_31"
