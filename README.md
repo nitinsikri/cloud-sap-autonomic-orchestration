@@ -1,5 +1,7 @@
 # Cloud-SAP: Multi-Tier Autonomic Resource Orchestration (Simulator)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24380958.svg)](https://doi.org/10.5281/zenodo.24380958)
+
 Reference implementation of the method described in:
 
 **Nitin Sikri.** *Multi-Tier Autonomic Resource Orchestration Framework for Dynamic Service Elasticity across Federated Cloud Environments.* Proceedings of the International Conference on Responsible, Risk-aware, and Regulated AI (RRRAI 2026), Atlantis Press (Springer Nature), 2026. DOI: [10.2991/978-94-6239-723-1_31](https://doi.org/10.2991/978-94-6239-723-1_31)
@@ -57,6 +59,8 @@ If you use this code, please cite the paper:
   doi       = {10.2991/978-94-6239-723-1_31}
 }
 ```
+
+To cite this software itself, use its Zenodo DOI: [10.5281/zenodo.24380958](https://doi.org/10.5281/zenodo.24380958).
 
 GitHub also shows a **"Cite this repository"** button generated from `CITATION.cff`.
 
